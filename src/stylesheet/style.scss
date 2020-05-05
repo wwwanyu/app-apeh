@@ -1,0 +1,100 @@
+// color
+$primary: #0041FF;
+$light: #ffffff;
+$dark: #303030;
+$grey: #5F5F5F;
+$font: 'BiauKai';
+
+html {
+  height: 100%;
+}
+body{
+  margin:0;
+  background-color: $primary;
+  font-family: $font;
+  color: $dark;
+}
+img{
+  max-width: 100%;
+}
+.container{
+  margin: .7rem;
+  padding: 1.4rem;
+  background-color: $light; 
+}
+.text-center{
+  text-align: center;
+}
+.text-primary{
+  color: $primary;
+}
+.h1{
+  font-size: 40px;
+}
+.font-weight-lighter{
+  font-weight: lighter;
+}
+.v-hidden{
+  visibility: hidden;
+}
+.py-140px{
+  padding: 140px 0;
+}
+.py-70px{
+  padding: 70px 0;
+}
+.py-30px{
+  padding: 30px 0;
+}
+.logo-app-apeh{
+  width: 140px;
+}
+.mx-auto{
+  margin: 0 auto;
+}
+.d-inline-block{
+  display: inline-block;
+}
+.d-inline{
+  display: inline;
+}
+.d-grid{
+  display: grid;
+}
+.team{
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.reset-ul{
+  list-style: none;
+}
+.position-relative{
+  position: relative;
+}
+.position-absolute{
+  position: absolute;
+}
+
+.work{
+  height: 400px;
+  .work-hover-cover{
+  }
+  .work-hover-show{
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+  }
+  .work-hover-show{
+    visibility: hidden;
+  }
+  &:hover{
+    background-color: rgba($primary, .05);
+    transition: all .24s;
+    .work-hover-cover{
+      visibility: hidden;
+    }
+    .work-hover-show{
+      visibility: visible;
+    }
+  }
+}
