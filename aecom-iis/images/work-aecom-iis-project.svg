@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="193px" viewBox="0 0 360 193" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>work-aecom-iis-project</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="358.079984" height="191.999991" rx="2.87999987"></rect>
+        <rect id="path-3" x="0" y="0" width="57.5999974" height="9.59999957" rx="4.79999979"></rect>
+        <rect id="path-5" x="0" y="0" width="57.5999974" height="9.59999957" rx="4.79999979"></rect>
+    </defs>
+    <g id="marketing-website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="work-study-aecom" transform="translate(-540.000000, -511.000000)">
+            <g id="work-aecom-iis-project" transform="translate(540.000000, 511.000000)">
+                <g id="project-cover" transform="translate(0.960000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#0041FF" xlink:href="#path-1"></use>
+                    <polygon id="color" fill="#0041FF" mask="url(#mask-2)" points="0 0 358.079984 0 358.079984 191.999991 0 191.999991"></polygon>
+                    <polygon id="overlayer" fill="#303030" opacity="0.2" style="mix-blend-mode: multiply;" mask="url(#mask-2)" points="0 0 358.079984 0 358.079984 191.999991 0 191.999991"></polygon>
+                    <rect id="border" fill="#0041FF" mask="url(#mask-2)" x="0" y="184.319992" width="358.079984" height="7.67999966"></rect>
+                </g>
+                <g id="btn/primary" transform="translate(281.279987, 11.519999)">
+                    <rect id="area" x="0" y="0" width="76.7999966" height="38.3999983" rx="19.1999991"></rect>
+                    <g id="text" transform="translate(12.479999, 6.720000)">
+                        <text id="設定" font-family="PingFangTC-Medium, PingFang TC" font-size="15.3599993" font-weight="400" line-spacing="24.9599989" fill="#FFFFFF">
+                            <tspan x="20.1599991" y="16">設定</tspan>
+                        </text>
+                        <g id="fa-solid:wrench" transform="translate(0.000000, 4.800000)" fill-rule="nonzero">
+                            <g id="Icon">
+                                <path d="M15.2025145,3.26661974 C15.135576,2.99624782 14.7978951,2.90462677 14.6012632,3.10164197 L12.3791434,5.32809333 L10.3506672,4.98945475 L10.0126875,2.95702443 L12.2348072,0.730573067 C12.4326345,0.53236021 12.3373068,0.194619874 12.0656679,0.126952041 C10.6497987,-0.224561393 9.0907887,0.154198824 7.98421132,1.26263386 C6.79963861,2.44951568 6.47361216,4.16995537 6.96668607,5.67002548 L0.589895693,12.0592462 C-0.156887153,12.8074848 -0.156887153,14.0207152 0.589895693,14.7689537 C1.33667854,15.5171923 2.54754852,15.5171923 3.29433137,14.7689537 L9.66574276,8.38512243 C11.1634921,8.88544522 12.8772975,8.55519026 14.0696398,7.36052365 C15.1774126,6.25059153 15.5548382,4.68614716 15.2025145,3.26661974 Z M1.94241236,14.132397 C1.54645907,14.132397 1.22521395,13.8105257 1.22521395,13.4138006 C1.22521395,13.016776 1.54645907,12.6952041 1.94241236,12.6952041 C2.33836565,12.6952041 2.65961078,13.016776 2.65961078,13.4138006 C2.65961078,13.8105257 2.33836565,14.132397 1.94241236,14.132397 Z" id="Icon-Shape" fill="#FFFFFF"></path>
+                                <rect id="Icon-Rectangle-path" fill-opacity="0" fill="#000000" x="0.0298832671" y="0" width="15.3002328" height="15.3300578"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="project-information" opacity="0.8" transform="translate(0.000000, 115.199995)">
+                    <g id="item-4" transform="translate(268.799988, 0.000000)">
+                        <polygon id="area" fill="#D8D8D8" opacity="0" points="0 0 89.279996 0 89.279996 76.7999966 0 76.7999966"></polygon>
+                        <g id="bar-chart" transform="translate(16.319999, 48.959998)">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <use id="Mask" fill="#FFFFFF" opacity="0.3" xlink:href="#path-3"></use>
+                            <rect id="bar" fill="#FFFFFF" mask="url(#mask-4)" x="0" y="0" width="4.57748324" height="9.59999957"></rect>
+                        </g>
+                        <text id="10%" font-family="PingFangTC-Medium, PingFang TC" font-size="20.1599991" font-weight="400" fill="#FFFFFF">
+                            <tspan x="24.9599989" y="43.079999">10%</tspan>
+                        </text>
+                        <text id="預算進度" font-family="PingFangTC-Semibold, PingFang TC" font-size="12.4799994" font-weight="500" fill="#FFFFFF">
+                            <tspan x="20.1599991" y="13">預算進度</tspan>
+                        </text>
+                    </g>
+                    <g id="item-3" transform="translate(179.519992, 0.000000)">
+                        <polygon id="area" fill="#D8D8D8" opacity="0" points="0 0 89.279996 0 89.279996 76.7999966 0 76.7999966"></polygon>
+                        <g id="bar-chart" transform="translate(16.319999, 48.959998)">
+                            <mask id="mask-6" fill="white">
+                                <use xlink:href="#path-5"></use>
+                            </mask>
+                            <use id="Mask" fill="#FFFFFF" opacity="0.3" xlink:href="#path-5"></use>
+                            <rect id="bar" fill="#FFFFFF" mask="url(#mask-6)" x="0" y="0" width="10" height="9.59999957"></rect>
+                        </g>
+                        <text id="19%" font-family="PingFangTC-Medium, PingFang TC" font-size="20.1599991" font-weight="400" fill="#FFFFFF">
+                            <tspan x="24.9599989" y="43.079999">19%</tspan>
+                        </text>
+                        <text id="工程進度" font-family="PingFangTC-Semibold, PingFang TC" font-size="12.4799994" font-weight="500" fill="#FFFFFF">
+                            <tspan x="20.1599991" y="13">工程進度</tspan>
+                        </text>
+                    </g>
+                    <g id="item-2" transform="translate(89.279996, 0.000000)">
+                        <polygon id="area" fill="#D8D8D8" opacity="0" points="0 0 89.279996 0 89.279996 76.7999966 0 76.7999966"></polygon>
+                        <text id="日曆天" font-family="PingFangTC-Semibold, PingFang TC" font-size="12.4799994" font-weight="500" fill="#FFFFFF">
+                            <tspan x="25.9199988" y="58.119998">日曆天</tspan>
+                        </text>
+                        <text id="1000" font-family="PingFangTC-Medium, PingFang TC" font-size="20.1599991" font-weight="400" fill="#FFFFFF">
+                            <tspan x="22.079999" y="43.079999">1000</tspan>
+                        </text>
+                        <text id="工期" font-family="PingFangTC-Semibold, PingFang TC" font-size="12.4799994" font-weight="500" fill="#FFFFFF">
+                            <tspan x="32.6399985" y="13">工期</tspan>
+                        </text>
+                    </g>
+                    <g id="item-1">
+                        <polygon id="area" fill="#D8D8D8" opacity="0" points="0 0 89.279996 0 89.279996 76.7999966 0 76.7999966"></polygon>
+                        <text id="2019" font-family="PingFangTC-Semibold, PingFang TC" font-size="12.4799994" font-weight="500" fill="#FFFFFF">
+                            <tspan x="30.7199986" y="58.119998">2019</tspan>
+                        </text>
+                        <text id="05/04" font-family="PingFangTC-Medium, PingFang TC" font-size="20.1599991" font-weight="400" fill="#FFFFFF">
+                            <tspan x="18.2399992" y="43.079999">05/04</tspan>
+                        </text>
+                        <text id="開工日" font-family="PingFangTC-Semibold, PingFang TC" font-size="12.4799994" font-weight="500" fill="#FFFFFF">
+                            <tspan x="25.9199988" y="13">開工日</tspan>
+                        </text>
+                    </g>
+                </g>
+                <text id="title" font-family="PingFangTC-Medium, PingFang TC" font-size="20.1599991" font-weight="400" fill="#FFFFFF">
+                    <tspan x="14.3999994" y="35.3999994">整建工程</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

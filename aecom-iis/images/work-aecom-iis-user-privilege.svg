@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="480px" height="235px" viewBox="0 0 480 235" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>work-aecom-iis-user-privilege</title>
+    <defs>
+        <circle id="path-1" cx="31.135101" cy="31.135101" r="31.135101"></circle>
+        <circle id="path-3" cx="31.135101" cy="31.135101" r="31.135101"></circle>
+        <circle id="path-5" cx="31.135101" cy="31.135101" r="31.135101"></circle>
+        <circle id="path-7" cx="31.135101" cy="31.135101" r="31.135101"></circle>
+        <filter x="-114.3%" y="-114.3%" width="328.6%" height="328.6%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="24" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.254901961   0 0 0 0 1  0 0 0 0.6 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <circle id="path-10" cx="41.5134707" cy="41.5134707" r="41.5134707"></circle>
+        <filter x="-114.3%" y="-114.3%" width="328.6%" height="328.6%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="24" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.254901961   0 0 0 0 1  0 0 0 0.6 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <circle id="path-13" cx="41.5134707" cy="41.5134707" r="41.5134707"></circle>
+        <filter x="-114.3%" y="-114.3%" width="328.6%" height="328.6%" filterUnits="objectBoundingBox" id="filter-15">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="24" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.254901961   0 0 0 0 1  0 0 0 0.6 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <circle id="path-16" cx="41.5134707" cy="41.5134707" r="41.5134707"></circle>
+    </defs>
+    <g id="marketing-website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="work-study-aecom" transform="translate(-479.000000, -936.000000)">
+            <g id="work-aecom-iis-user-privilege" transform="translate(479.000000, 1007.000000)">
+                <g id="Group-10" opacity="0.5" transform="translate(309.000000, 101.000000)">
+                    <g id="Group-7" transform="translate(31.499999, 0.000000)">
+                        <g id="bx-bxs-user-copy" transform="translate(31.499998, 31.500000) scale(-1, 1) translate(-31.499998, -31.500000) translate(-0.000002, 0.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Mask" fill="#303030" xlink:href="#path-1"></use>
+                            <g id="bx-bxs-user" mask="url(#mask-2)" opacity="0.7">
+                                <g transform="translate(2.547980, 14.300201)" id="Icon">
+                                    <g transform="translate(0.565530, 0.127939)">
+                                        <path d="M14.010796,14.2598768 C14.010796,21.9844957 20.2969731,28.2706728 28.021592,28.2706728 C35.7462108,28.2706728 42.032388,21.9844957 42.032388,14.2598768 C42.032388,6.53525795 35.7462108,0.249080818 28.021592,0.249080818 C20.2969731,0.249080818 14.010796,6.53525795 14.010796,14.2598768 Z M52.9296737,59.405775 L56.043184,59.405775 L56.043184,56.2922648 C56.043184,44.2772288 46.2636484,34.4976932 34.2486124,34.4976932 L21.7945715,34.4976932 C9.77642209,34.4976932 0,44.2772288 0,56.2922648 L0,59.405775 L52.9296737,59.405775 Z" id="Icon-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="bx-bxs-user-copy-2" transform="translate(107.099996, 31.500000) scale(-1, 1) translate(-107.099996, -31.500000) translate(75.599996, 0.000000)">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <use id="Mask" fill="#303030" xlink:href="#path-3"></use>
+                            <g id="bx-bxs-user" mask="url(#mask-4)" opacity="0.7">
+                                <g transform="translate(2.547980, 14.300201)" id="Icon">
+                                    <g transform="translate(0.565530, 0.127939)">
+                                        <path d="M14.010796,14.2598768 C14.010796,21.9844957 20.2969731,28.2706728 28.021592,28.2706728 C35.7462108,28.2706728 42.032388,21.9844957 42.032388,14.2598768 C42.032388,6.53525795 35.7462108,0.249080818 28.021592,0.249080818 C20.2969731,0.249080818 14.010796,6.53525795 14.010796,14.2598768 Z M52.9296737,59.405775 L56.043184,59.405775 L56.043184,56.2922648 C56.043184,44.2772288 46.2636484,34.4976932 34.2486124,34.4976932 L21.7945715,34.4976932 C9.77642209,34.4976932 0,44.2772288 0,56.2922648 L0,59.405775 L52.9296737,59.405775 Z" id="Icon-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <path d="M11.7000003,22.4999994 C5.23826858,22.4999994 0,27.738268 0,34.1999997 C0,40.6617315 5.23826858,45.9000001 11.7000003,45.9000001 C18.1617321,45.9000001 23.4000007,40.6617315 23.4000007,34.1999997 C23.4000007,27.738268 18.1617321,22.4999994 11.7000003,22.4999994 Z M18.3703934,38.4635356 L15.9621433,40.8717856 L11.7000003,36.6082498 L7.4364645,40.8703928 L5.02821443,38.4621427 L9.29314312,34.1999997 L5.02960729,29.9364639 L7.43785736,27.5296067 L11.7000003,31.7917497 L15.9635362,27.5282138 L18.3717862,29.9364639 L14.1068575,34.1999997 L18.3703934,38.4635356 Z" id="Icon-Shape" fill="#FF0000" fill-rule="nonzero"></path>
+                </g>
+                <g id="Group-10" opacity="0.5" transform="translate(0.000000, 101.000000)">
+                    <g id="Group-7" transform="translate(31.499999, 0.000000)">
+                        <g id="bx-bxs-user-copy" transform="translate(31.499998, 31.500000) scale(-1, 1) translate(-31.499998, -31.500000) translate(-0.000002, 0.000000)">
+                            <mask id="mask-6" fill="white">
+                                <use xlink:href="#path-5"></use>
+                            </mask>
+                            <use id="Mask" fill="#303030" xlink:href="#path-5"></use>
+                            <g id="bx-bxs-user" mask="url(#mask-6)" opacity="0.7">
+                                <g transform="translate(2.547980, 14.300201)" id="Icon">
+                                    <g transform="translate(0.565530, 0.127939)">
+                                        <path d="M14.010796,14.2598768 C14.010796,21.9844957 20.2969731,28.2706728 28.021592,28.2706728 C35.7462108,28.2706728 42.032388,21.9844957 42.032388,14.2598768 C42.032388,6.53525795 35.7462108,0.249080818 28.021592,0.249080818 C20.2969731,0.249080818 14.010796,6.53525795 14.010796,14.2598768 Z M52.9296737,59.405775 L56.043184,59.405775 L56.043184,56.2922648 C56.043184,44.2772288 46.2636484,34.4976932 34.2486124,34.4976932 L21.7945715,34.4976932 C9.77642209,34.4976932 0,44.2772288 0,56.2922648 L0,59.405775 L52.9296737,59.405775 Z" id="Icon-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="bx-bxs-user-copy-2" transform="translate(107.099996, 31.500000) scale(-1, 1) translate(-107.099996, -31.500000) translate(75.599996, 0.000000)">
+                            <mask id="mask-8" fill="white">
+                                <use xlink:href="#path-7"></use>
+                            </mask>
+                            <use id="Mask" fill="#303030" xlink:href="#path-7"></use>
+                            <g id="bx-bxs-user" mask="url(#mask-8)" opacity="0.7">
+                                <g transform="translate(2.547980, 14.300201)" id="Icon">
+                                    <g transform="translate(0.565530, 0.127939)">
+                                        <path d="M14.010796,14.2598768 C14.010796,21.9844957 20.2969731,28.2706728 28.021592,28.2706728 C35.7462108,28.2706728 42.032388,21.9844957 42.032388,14.2598768 C42.032388,6.53525795 35.7462108,0.249080818 28.021592,0.249080818 C20.2969731,0.249080818 14.010796,6.53525795 14.010796,14.2598768 Z M52.9296737,59.405775 L56.043184,59.405775 L56.043184,56.2922648 C56.043184,44.2772288 46.2636484,34.4976932 34.2486124,34.4976932 L21.7945715,34.4976932 C9.77642209,34.4976932 0,44.2772288 0,56.2922648 L0,59.405775 L52.9296737,59.405775 Z" id="Icon-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <path d="M11.7000003,22.4999994 C5.23826858,22.4999994 0,27.738268 0,34.1999997 C0,40.6617315 5.23826858,45.9000001 11.7000003,45.9000001 C18.1617321,45.9000001 23.4000007,40.6617315 23.4000007,34.1999997 C23.4000007,27.738268 18.1617321,22.4999994 11.7000003,22.4999994 Z M18.3703934,38.4635356 L15.9621433,40.8717856 L11.7000003,36.6082498 L7.4364645,40.8703928 L5.02821443,38.4621427 L9.29314312,34.1999997 L5.02960729,29.9364639 L7.43785736,27.5296067 L11.7000003,31.7917497 L15.9635362,27.5282138 L18.3717862,29.9364639 L14.1068575,34.1999997 L18.3703934,38.4635356 Z" id="Icon-Shape" fill="#FF0000" fill-rule="nonzero"></path>
+                </g>
+                <g id="Group-11" transform="translate(65.000000, 0.000000)">
+                    <g id="bx-bxs-user-copy" filter="url(#filter-9)" transform="translate(185.000000, 42.000000) scale(-1, 1) translate(-185.000000, -42.000000) translate(143.000000, 0.000000)">
+                        <mask id="mask-11" fill="white">
+                            <use xlink:href="#path-10"></use>
+                        </mask>
+                        <g id="Mask">
+                            <use fill="#FFFFFF" xlink:href="#path-10"></use>
+                            <use fill-opacity="0.8" fill="#0041FF" xlink:href="#path-10"></use>
+                        </g>
+                        <g id="bx-bxs-user" mask="url(#mask-11)" fill="#FFFFFF" fill-rule="nonzero" opacity="0.9">
+                            <g transform="translate(3.397306, 19.066935)" id="Icon-Shape">
+                                <path d="M19.4351032,19.1837563 C19.4351032,29.4832488 27.8166732,37.8648188 38.1161657,37.8648188 C48.4156582,37.8648188 56.7972283,29.4832488 56.7972283,19.1837563 C56.7972283,8.8842638 48.4156582,0.50269373 38.1161657,0.50269373 C27.8166732,0.50269373 19.4351032,8.8842638 19.4351032,19.1837563 Z M71.3269436,79.3782912 L75.4782908,79.3782912 L75.4782908,75.226944 C75.4782908,59.206895 62.4389092,46.1675133 46.4188602,46.1675133 L29.8134712,46.1675133 C13.7892709,46.1675133 0.754040595,59.206895 0.754040595,75.226944 L0.754040595,79.3782912 L71.3269436,79.3782912 Z"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="bx-bxs-user-copy" filter="url(#filter-12)" transform="translate(286.000000, 42.000000) scale(-1, 1) translate(-286.000000, -42.000000) translate(244.000000, 0.000000)">
+                        <mask id="mask-14" fill="white">
+                            <use xlink:href="#path-13"></use>
+                        </mask>
+                        <g id="Mask">
+                            <use fill="#FFFFFF" xlink:href="#path-13"></use>
+                            <use fill-opacity="0.8" fill="#0041FF" xlink:href="#path-13"></use>
+                        </g>
+                        <g id="bx-bxs-user" mask="url(#mask-14)" fill="#FFFFFF" fill-rule="nonzero" opacity="0.9">
+                            <g transform="translate(3.397306, 19.066935)" id="Icon-Shape">
+                                <path d="M19.4351032,19.1837563 C19.4351032,29.4832488 27.8166732,37.8648188 38.1161657,37.8648188 C48.4156582,37.8648188 56.7972283,29.4832488 56.7972283,19.1837563 C56.7972283,8.8842638 48.4156582,0.50269373 38.1161657,0.50269373 C27.8166732,0.50269373 19.4351032,8.8842638 19.4351032,19.1837563 Z M71.3269436,79.3782912 L75.4782908,79.3782912 L75.4782908,75.226944 C75.4782908,59.206895 62.4389092,46.1675133 46.4188602,46.1675133 L29.8134712,46.1675133 C13.7892709,46.1675133 0.754040595,59.206895 0.754040595,75.226944 L0.754040595,79.3782912 L71.3269436,79.3782912 Z"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <path d="M15.6000015,26.400001 C6.99816066,26.400001 0,33.3981617 0,42.0000025 C0,50.6018433 6.99816066,57.600004 15.6000015,57.600004 C24.2018423,57.600004 31.200003,50.6018433 31.200003,42.0000025 C31.200003,33.3981617 24.2018423,26.400001 15.6000015,26.400001 Z M12.4815612,48.8842832 L6.68928063,43.1044826 L8.89200084,40.8955224 L12.4784412,44.4757228 L20.737082,36.217082 L22.9429222,38.4229222 L12.4815612,48.8842832 Z" id="Icon-Shape" fill="#86E800" fill-rule="nonzero"></path>
+                    <g id="bx-bxs-user-copy" filter="url(#filter-15)" transform="translate(84.000005, 42.000000) scale(-1, 1) translate(-84.000005, -42.000000) translate(42.000005, 0.000000)">
+                        <mask id="mask-17" fill="white">
+                            <use xlink:href="#path-16"></use>
+                        </mask>
+                        <g id="Mask">
+                            <use fill="#FFFFFF" xlink:href="#path-16"></use>
+                            <use fill-opacity="0.8" fill="#0041FF" xlink:href="#path-16"></use>
+                        </g>
+                        <g id="bx-bxs-user" mask="url(#mask-17)" fill="#FFFFFF" fill-rule="nonzero" opacity="0.9">
+                            <g transform="translate(3.397306, 19.066935)" id="Icon-Shape">
+                                <path d="M19.4351032,19.1837563 C19.4351032,29.4832488 27.8166732,37.8648188 38.1161657,37.8648188 C48.4156582,37.8648188 56.7972283,29.4832488 56.7972283,19.1837563 C56.7972283,8.8842638 48.4156582,0.50269373 38.1161657,0.50269373 C27.8166732,0.50269373 19.4351032,8.8842638 19.4351032,19.1837563 Z M71.3269436,79.3782912 L75.4782908,79.3782912 L75.4782908,75.226944 C75.4782908,59.206895 62.4389092,46.1675133 46.4188602,46.1675133 L29.8134712,46.1675133 C13.7892709,46.1675133 0.754040595,59.206895 0.754040595,75.226944 L0.754040595,79.3782912 L71.3269436,79.3782912 Z"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="200px" viewBox="0 0 360 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>work-aecom-iis-contract</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="359.891955" height="199.939975" rx="4.9988"></rect>
+    </defs>
+    <g id="marketing-website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="work-study-aecom" transform="translate(-261.000000, -1448.000000)">
+            <g id="work-aecom-iis-contract" transform="translate(261.000000, 1448.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <rect stroke-opacity="0.5" stroke="#0041FF" stroke-width="4" x="2" y="2" width="355.891955" height="195.939975" rx="4.9988"></rect>
+                <rect id="area" fill="#0041FF" opacity="0.1" mask="url(#mask-2)" x="0" y="62.3812722" width="359.891955" height="137.558703"></rect>
+                <g id="Group-2" mask="url(#mask-2)" font-family="PingFangTC-Semibold, PingFang TC" font-size="10.3968787" font-weight="500" opacity="0.5">
+                    <g transform="translate(16.794958, 38.388475)">
+                        <text id="契約編號">
+                            <tspan x="0" y="11" fill="#343A40">契約編號</tspan>
+                        </text>
+                        <text id="1">
+                            <tspan x="49.5851138" y="11" fill="#343A40">1</tspan>
+                        </text>
+                    </g>
+                </g>
+                <text id="統包工程" mask="url(#mask-2)" font-family="PingFangTC-Medium, PingFang TC" font-size="20.7937574" font-weight="400" fill="#444B53">
+                    <tspan x="15.995198" y="30.7973589">統包工程</tspan>
+                </text>
+                <text id="契約金額" mask="url(#mask-2)" font-family="PingFangTC-Semibold, PingFang TC" font-size="10.3968787" font-weight="500" fill="#343A40">
+                    <tspan x="15.1954381" y="103.772148">契約金額</tspan>
+                </text>
+                <text id="訂約日期" mask="url(#mask-2)" font-family="PingFangTC-Semibold, PingFang TC" font-size="10.3968787" font-weight="500" fill="#343A40">
+                    <tspan x="15.1954381" y="132.563505">訂約日期</tspan>
+                </text>
+                <text id="履約期限" mask="url(#mask-2)" font-family="PingFangTC-Semibold, PingFang TC" font-size="10.3968787" font-weight="500" fill="#343A40">
+                    <tspan x="15.1954381" y="162.154621">履約期限</tspan>
+                </text>
+                <text id="2019-06-25" mask="url(#mask-2)" font-family="PingFangTC-Medium, PingFang TC" font-size="16.7949579" font-weight="400" fill="#343A40">
+                    <tspan x="69.5791114" y="133.165426">2019-06-25</tspan>
+                </text>
+                <text id="10,000" mask="url(#mask-2)" font-family="PingFangTC-Medium, PingFang TC" font-size="16.7949579" font-weight="400" fill="#343A40">
+                    <tspan x="69.5791114" y="104.374069">10,000</tspan>
+                </text>
+                <text id="2019-07-01" mask="url(#mask-2)" font-family="PingFangTC-Medium, PingFang TC" font-size="16.7949579" font-weight="400" fill="#343A40">
+                    <tspan x="69.5791114" y="162.756542">2019-07-01</tspan>
+                </text>
+                <text id="建立於：2019-06-25" opacity="0.5" mask="url(#mask-2)" font-family="PingFangTC-Semibold, PingFang TC" font-size="10.3968787" font-weight="500" fill="#343A40">
+                    <tspan x="241.52749" y="188.546698">建立於：2019-06-25</tspan>
+                </text>
+                <g id="badge/dark" mask="url(#mask-2)">
+                    <g transform="translate(299.110203, 69.579111)">
+                        <rect id="area" fill="#0041FF" fill-rule="evenodd" x="0" y="0" width="44.7865544" height="16.7949579" rx="8.39747896"></rect>
+                        <text id="版本-1" fill="none" font-family="PingFangTC-Semibold, PingFang TC" font-size="10.3968787" font-weight="500">
+                            <tspan x="6.3980792" y="11.7997599" fill="#FFFFFF">版本 1 </tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -3,7 +3,9 @@ $primary: #0041FF;
 $light: #ffffff;
 $dark: #303030;
 $grey: #5F5F5F;
-$font: 'BiauKai';
+
+$opacityNum: 0.1;
+$opacityName: 1;
 
 html {
   height: 100%;
@@ -11,8 +13,11 @@ html {
 body{
   margin:0;
   background-color: $primary;
-  font-family: $font;
+  font-family: BiauKai, serif;
   color: $dark;
+}
+p{
+  font-family: source-han-sans-traditional, "Noto Sans TC", "PingFang TC", Roboto, "Microsoft JhengHei", sans-serif;
 }
 img{
   max-width: 100%;
@@ -55,8 +60,14 @@ img{
 .d-inline-block{
   display: inline-block;
 }
+.d-block{
+  display: block;
+}
 .d-inline{
   display: inline;
+}
+.d-none{
+  display: none;
 }
 .d-grid{
   display: grid;
@@ -73,7 +84,6 @@ img{
 .position-absolute{
   position: absolute;
 }
-
 .work{
   height: 400px;
   .work-hover-cover{
@@ -96,5 +106,17 @@ img{
     .work-hover-show{
       visibility: visible;
     }
+  }
+}
+.back-to-home{
+  width: 85px;
+  &.position-absolute{
+    left: 40px;
+    top: 20px;
+  }
+}
+@while $opacityName < 10 {
+  .bg-primary-o#{$opacityName} {
+    background-color: rgba($primary, $opacityNum);
   }
 }

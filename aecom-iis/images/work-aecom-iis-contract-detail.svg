@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="719px" height="449px" viewBox="0 0 719 449" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>work-aecom-iis-contract-detail</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="718.366967" height="449" rx="5"></rect>
+    </defs>
+    <g id="marketing-website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="work-study-aecom" transform="translate(-660.000000, -1339.000000)">
+            <g id="work-aecom-iis-contract-detail" transform="translate(660.000000, 1339.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <rect stroke="#0041FF" stroke-width="4" x="2" y="2" width="714.366967" height="445" rx="5"></rect>
+                <g id="table" mask="url(#mask-2)">
+                    <g transform="translate(8.890722, 348.717505)">
+                        <rect id="area" fill="#0041FF" fill-rule="evenodd" opacity="0.08" x="0.907215964" y="0" width="699.216453" height="91"></rect>
+                        <rect id="area" fill="#0041FF" fill-rule="evenodd" opacity="0.3" x="0.907215964" y="0" width="699.216453" height="21"></rect>
+                        <g id="row" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(1.000000, 22.268040)">
+                            <rect id="area" fill="#FFFFFF" x="0.476245895" y="0" width="698" height="22.2680399"></rect>
+                            <g id="badge/dark" transform="translate(7.923710, 6.680412)">
+                                <rect id="area" fill="#0041FF" x="0" y="0" width="24.9402047" height="9.35257676" rx="4.67628838"></rect>
+                                <text id="版本-3" font-family="PingFangTC-Semibold, PingFang TC" font-size="5.78969038" font-weight="500" fill="#FFFFFF">
+                                    <tspan x="3.56288639" y="6.4453608">版本 3 </tspan>
+                                </text>
+                            </g>
+                            <text id="20,000" font-family="PingFangTC-Medium, PingFang TC" font-size="7.12577277" font-weight="400" line-spacing="11.5793808" fill="#343A40">
+                                <tspan x="58" y="13.023871">20,000</tspan>
+                            </text>
+                            <text id="2019-07-01" font-family="PingFangTC-Medium, PingFang TC" font-size="7.12577277" font-weight="400" line-spacing="11.5793808" fill="#343A40">
+                                <tspan x="192.303081" y="13.3689624">2019-07-01</tspan>
+                            </text>
+                            <text id="2019-06-26" font-family="PingFangTC-Medium, PingFang TC" font-size="7.12577277" font-weight="400" line-spacing="11.5793808" fill="#343A40">
+                                <tspan x="266.678334" y="13.3689624">2019-06-26</tspan>
+                            </text>
+                            <text id="變更設計" font-family="PingFangTC-Medium, PingFang TC" font-size="7.12577277" font-weight="400" line-spacing="11.5793808" fill="#343A40">
+                                <tspan x="335.263897" y="13.3689624">變更設計</tspan>
+                            </text>
+                        </g>
+                        <g id="row" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(1.000000, 67.844609)">
+                            <rect id="area" fill="#FFFFFF" x="0.476245895" y="0" width="698" height="22.3173055"></rect>
+                            <g id="badge/dark" transform="translate(7.923710, 6.695192)">
+                                <rect id="area" fill="#0041FF" x="0" y="0" width="24.9402047" height="9.3732683" rx="4.67628838"></rect>
+                                <text id="版本-1" font-family="PingFangTC-Semibold, PingFang TC" font-size="5.78969038" font-weight="500" fill="#FFFFFF">
+                                    <tspan x="3.56288639" y="6.45519567">版本 1 </tspan>
+                                </text>
+                            </g>
+                            <text id="2019-06-25" font-family="PingFangTC-Medium, PingFang TC" font-size="7.12577277" font-weight="400" line-spacing="11.5793808" fill="#343A40">
+                                <tspan x="114.364941" y="13.3694277">2019-06-25</tspan>
+                            </text>
+                            <text id="20,000" font-family="PingFangTC-Medium, PingFang TC" font-size="7.12577277" font-weight="400" line-spacing="11.5793808" fill="#343A40">
+                                <tspan x="57.8041197" y="13.3443296">20,000</tspan>
+                            </text>
+                            <text id="2019-07-01" font-family="PingFangTC-Medium, PingFang TC" font-size="7.12577277" font-weight="400" line-spacing="11.5793808" fill="#343A40">
+                                <tspan x="192.303081" y="13.3443296">2019-07-01</tspan>
+                            </text>
+                            <text id="2019-06-25" font-family="PingFangTC-Medium, PingFang TC" font-size="7.12577277" font-weight="400" line-spacing="11.5793808" fill="#343A40">
+                                <tspan x="266.678334" y="13.3443296">2019-06-25</tspan>
+                            </text>
+                            <text id="-" font-family="PingFangTC-Medium, PingFang TC" font-size="7.12577277" font-weight="400" line-spacing="11.5793808" fill="#343A40">
+                                <tspan x="335.263897" y="13.3443296">-</tspan>
+                            </text>
+                        </g>
+                        <g id="row" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(1.000000, 26.981441)">
+                            <rect id="area" fill="#FFFFFF" opacity="0" x="0.476245895" y="18" width="698" height="22.2680399"></rect>
+                            <g id="badge/dark" transform="translate(7.923710, 24.680412)">
+                                <rect id="area" fill="#0041FF" x="0" y="0" width="24.9402047" height="9.35257676" rx="4.67628838"></rect>
+                                <text id="版本-2" font-family="PingFangTC-Semibold, PingFang TC" font-size="5.78969038" font-weight="500" fill="#FFFFFF">
+                                    <tspan x="3.56288639" y="6.4453608">版本 2 </tspan>
+                                </text>
+                            </g>
+                            <text id="2019-06-25" font-family="PingFangTC-Medium, PingFang TC" font-size="7.12577277" font-weight="400" line-spacing="11.5793808" fill="#343A40">
+                                <tspan x="114.364941" y="31.3443296">2019-06-25</tspan>
+                            </text>
+                            <text id="2019-06-25" font-family="PingFangTC-Medium, PingFang TC" font-size="7.12577277" font-weight="400" line-spacing="11.5793808" fill="#343A40">
+                                <tspan x="114" y="8">2019-06-25</tspan>
+                            </text>
+                            <text id="10,000" font-family="PingFangTC-Medium, PingFang TC" font-size="7.12577277" font-weight="400" line-spacing="11.5793808" fill="#343A40">
+                                <tspan x="57.8041197" y="31.3443296">10,000</tspan>
+                            </text>
+                            <text id="2020-07-01" font-family="PingFangTC-Medium, PingFang TC" font-size="7.12577277" font-weight="400" line-spacing="11.5793808" fill="#343A40">
+                                <tspan x="192.303081" y="31.3443296">2020-07-01</tspan>
+                            </text>
+                            <text id="2019-06-24" font-family="PingFangTC-Medium, PingFang TC" font-size="7.12577277" font-weight="400" line-spacing="11.5793808" fill="#343A40">
+                                <tspan x="266.678334" y="31.3443296">2019-06-24</tspan>
+                            </text>
+                            <text id="更改履約期限" font-family="PingFangTC-Medium, PingFang TC" font-size="7.12577277" font-weight="400" line-spacing="11.5793808" fill="#343A40">
+                                <tspan x="335.263897" y="31.3443296">更改履約期限</tspan>
+                            </text>
+                        </g>
+                        <text id="契約金額" fill="none" font-family="PingFangTC-Semibold, PingFang TC" font-size="5.78969038" font-weight="500">
+                            <tspan x="58.8041197" y="12.680412" fill="#303030">契約金額</tspan>
+                        </text>
+                        <text id="版本" fill="none" font-family="PingFangTC-Semibold, PingFang TC" font-size="5.78969038" font-weight="500">
+                            <tspan x="10.7051535" y="12.680412" fill="#303030">版本</tspan>
+                        </text>
+                        <text id="訂約日期" fill="none" font-family="PingFangTC-Semibold, PingFang TC" font-size="5.78969038" font-weight="500">
+                            <tspan x="115.364941" y="12.680412" fill="#303030">訂約日期</tspan>
+                        </text>
+                        <text id="履約期限" fill="none" font-family="PingFangTC-Semibold, PingFang TC" font-size="5.78969038" font-weight="500">
+                            <tspan x="193.303081" y="12.680412" fill="#303030">履約期限</tspan>
+                        </text>
+                        <text id="變更日期" fill="none" font-family="PingFangTC-Semibold, PingFang TC" font-size="5.78969038" font-weight="500">
+                            <tspan x="267.678334" y="12.680412" fill="#303030">變更日期</tspan>
+                        </text>
+                        <text id="備註訊息" fill="none" font-family="PingFangTC-Semibold, PingFang TC" font-size="5.78969038" font-weight="500">
+                            <tspan x="336.263897" y="12.680412" fill="#303030">備註訊息</tspan>
+                        </text>
+                    </g>
+                </g>
+                <rect id="area" fill="#0041FF" opacity="0.1" mask="url(#mask-2)" x="9.79793756" y="198.630916" width="699.216453" height="92"></rect>
+                <rect id="area" fill="#0041FF" opacity="0.7" mask="url(#mask-2)" x="10" y="199" width="699.216453" height="21"></rect>
+                <rect id="area" fill="#FFFFFF" mask="url(#mask-2)" x="11" y="221" width="697" height="22.2680399"></rect>
+                <text id="黃榮燦" mask="url(#mask-2)" font-family="PingFangTC-Medium, PingFang TC" font-size="7" font-weight="400" line-spacing="26" fill="#343A40">
+                    <tspan x="451" y="225.579381">黃榮燦</tspan>
+                </text>
+                <text id="完成雙方契約簽訂" mask="url(#mask-2)" font-family="PingFangTC-Medium, PingFang TC" font-size="7" font-weight="400" line-spacing="11.5793808" fill="#343A40">
+                    <tspan x="23" y="232.999535">完成雙方契約簽訂</tspan>
+                </text>
+                <text id="2019-11-19" mask="url(#mask-2)" font-family="PingFangTC-Medium, PingFang TC" font-size="7" font-weight="400" line-spacing="11.5793808" fill="#343A40">
+                    <tspan x="573" y="232.999535">2019-11-19</tspan>
+                </text>
+                <rect id="area" fill="#FFFFFF" mask="url(#mask-2)" x="10.8907216" y="266.872149" width="697" height="22.2680399"></rect>
+                <text id="黃土水" mask="url(#mask-2)" font-family="PingFangTC-Medium, PingFang TC" font-size="7" font-weight="400" line-spacing="11.5793808" fill="#343A40">
+                    <tspan x="450.705128" y="279.216014">黃土水</tspan>
+                </text>
+                <text id="PMIS系統分析報告提送" mask="url(#mask-2)" font-family="PingFangTC-Medium, PingFang TC" font-size="7" font-weight="400" line-spacing="11.5793808" fill="#343A40">
+                    <tspan x="23.1587615" y="279.216014">PMIS系統分析報告提送</tspan>
+                </text>
+                <text id="2021-12-21" mask="url(#mask-2)" font-family="PingFangTC-Medium, PingFang TC" font-size="7" font-weight="400" line-spacing="11.5793808" fill="#343A40">
+                    <tspan x="573" y="278.999535">2021-12-21</tspan>
+                </text>
+                <rect id="area" fill="#FFFFFF" opacity="0" mask="url(#mask-2)" x="10.3669675" y="244.158749" width="698" height="22.2680399"></rect>
+                <text id="陳澄波" mask="url(#mask-2)" font-family="PingFangTC-Medium, PingFang TC" font-size="7" font-weight="400" line-spacing="11.5793808" fill="#343A40">
+                    <tspan x="450.705128" y="256.502613">陳澄波</tspan>
+                </text>
+                <text id="契約保險資料交付" mask="url(#mask-2)" font-family="PingFangTC-Medium, PingFang TC" font-size="7" font-weight="400" line-spacing="11.5793808" fill="#343A40">
+                    <tspan x="23.1587615" y="256.502613">契約保險資料交付</tspan>
+                </text>
+                <text id="2020-03-25" mask="url(#mask-2)" font-family="PingFangTC-Medium, PingFang TC" font-size="7" font-weight="400" line-spacing="11.5793808" fill="#343A40">
+                    <tspan x="573" y="256.999535">2020-03-25</tspan>
+                </text>
+                <text id="管制事項" mask="url(#mask-2)" font-family="PingFangTC-Semibold, PingFang TC" font-size="5.78969038" font-weight="500" fill="#FFFFFF">
+                    <tspan x="23" y="212">管制事項</tspan>
+                </text>
+                <text id="承辦人" mask="url(#mask-2)" font-family="PingFangTC-Semibold, PingFang TC" font-size="5.78969038" font-weight="500" fill="#FFFFFF">
+                    <tspan x="451" y="212">承辦人</tspan>
+                </text>
+                <text id="作業期限" mask="url(#mask-2)" font-family="PingFangTC-Semibold, PingFang TC" font-size="5.78969038" font-weight="500" fill="#FFFFFF">
+                    <tspan x="573" y="212">作業期限</tspan>
+                </text>
+                <text id="備註訊息" mask="url(#mask-2)" font-family="PingFangTC-Semibold, PingFang TC" font-size="0.22615978" font-weight="500" fill="#343A40">
+                    <tspan x="348.272144" y="205.755583">備註訊息</tspan>
+                </text>
+                <g id="button/outline-secondary" mask="url(#mask-2)">
+                    <g transform="translate(631.000000, 28.503091)">
+                        <rect id="area" stroke="#0041FF" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd" x="0.5" y="0.5" width="42.6453582" height="15.9237103" rx="1.33608239"></rect>
+                        <text id="修改契約" stroke="none" fill="none" font-family="PingFangTC-Medium, PingFang TC" font-size="7.12577277" font-weight="400" line-spacing="11.5793808">
+                            <tspan x="7.57113357" y="10.6716995" fill="#0041FF">修改契約</tspan>
+                        </text>
+                    </g>
+                </g>
+                <text id="2019-07-01" mask="url(#mask-2)" font-family="PingFangTC-Medium, PingFang TC" font-size="11.5793808" font-weight="400" fill="#343A40">
+                    <tspan x="39.637111" y="134.028859">2019-07-01</tspan>
+                </text>
+                <rect id="divider" fill="#355E89" opacity="0.1" mask="url(#mask-2)" x="8.90721596" y="167.010299" width="700.552536" height="1"></rect>
+                <rect id="divider" fill="#303030" opacity="0.2" mask="url(#mask-2)" x="8.90721596" y="309.080394" width="700.552536" height="1"></rect>
+                <rect id="border" fill="#355E89" opacity="0.1" mask="url(#mask-2)" x="239.158749" y="76.6020573" width="1" height="84.6185517"></rect>
+                <rect id="border" fill="#355E89" opacity="0.1" mask="url(#mask-2)" x="478.317497" y="76.6020573" width="1" height="84.6185517"></rect>
+                <g id="Group-2" mask="url(#mask-2)" font-family="PingFangTC-Semibold, PingFang TC" font-size="5.78969038" font-weight="500" opacity="0.7">
+                    <g transform="translate(9.797938, 32.511338)">
+                        <text id="契約編號">
+                            <tspan x="0" y="6.00884956" fill="#343A40">契約編號</tspan>
+                        </text>
+                        <text id="2">
+                            <tspan x="27.6123695" y="6.00884956" fill="#343A40">2</tspan>
+                        </text>
+                    </g>
+                </g>
+                <text id="統包工程" mask="url(#mask-2)" font-family="PingFangTC-Medium, PingFang TC" font-size="16.0329887" font-weight="400" fill="#343A40">
+                    <tspan x="8.90721596" y="25.0164944">統包工程</tspan>
+                </text>
+                <text id="變更紀錄" mask="url(#mask-2)" font-family="PingFangTC-Medium, PingFang TC" font-size="10.6886592" font-weight="400" fill="#343A40">
+                    <tspan x="8.90721596" y="337.449465">變更紀錄</tspan>
+                </text>
+                <text id="節點管制" mask="url(#mask-2)" font-family="PingFangTC-Medium, PingFang TC" font-size="10.6886592" font-weight="400" fill="#343A40">
+                    <tspan x="8.90721596" y="187.808237">節點管制</tspan>
+                </text>
+                <text id="契約金額" opacity="0.6" mask="url(#mask-2)" font-family="PingFangTC-Semibold, PingFang TC" font-size="5.78969038" font-weight="500" fill="#343A40">
+                    <tspan x="9.79793756" y="88.3917477">契約金額</tspan>
+                </text>
+                <text id="訂約日期" opacity="0.6" mask="url(#mask-2)" font-family="PingFangTC-Semibold, PingFang TC" font-size="5.78969038" font-weight="500" fill="#343A40">
+                    <tspan x="9.79793756" y="111.99587">訂約日期</tspan>
+                </text>
+                <text id="契約種類" opacity="0.6" mask="url(#mask-2)" font-family="PingFangTC-Semibold, PingFang TC" font-size="5.78969038" font-weight="500" fill="#343A40">
+                    <tspan x="9.79793756" y="154.750507">契約種類</tspan>
+                </text>
+                <text id="業主" mask="url(#mask-2)" font-family="PingFangTC-Medium, PingFang TC" font-size="7.12577277" font-weight="400" line-spacing="11.5793808" fill="#343A40">
+                    <tspan x="39.637111" y="154.523237">業主</tspan>
+                </text>
+                <g id="Group-4" mask="url(#mask-2)">
+                    <g transform="translate(247.734006, 77.826649)">
+                        <text id="甲方名稱" opacity="0.6" font-family="PingFangTC-Semibold, PingFang TC" font-size="5.78969038" font-weight="500">
+                            <tspan x="7.63092887" y="9.22901638" fill="#343A40">甲方名稱</tspan>
+                        </text>
+                        <text id="金防部" font-family="PingFangTC-Medium, PingFang TC" font-size="7.12577277" font-weight="400" line-spacing="11.5793808">
+                            <tspan x="38.6329876" y="9.0017471" fill="#343A40">金防部</tspan>
+                        </text>
+                        <text id="甲方連絡人" opacity="0.6" font-family="PingFangTC-Semibold, PingFang TC" font-size="5.78969038" font-weight="500">
+                            <tspan x="0.0515481172" y="31.1886313" fill="#343A40">甲方連絡人</tspan>
+                        </text>
+                        <text id="金防部" font-family="PingFangTC-Medium, PingFang TC" font-size="7.12577277" font-weight="400" line-spacing="11.5793808">
+                            <tspan x="36.0783484" y="30.9567274" fill="#343A40">金防部</tspan>
+                        </text>
+                        <text id="聯絡電話" opacity="0.6" font-family="PingFangTC-Semibold, PingFang TC" font-size="5.78969038" font-weight="500">
+                            <tspan x="5.07628967" y="52.5483215" fill="#343A40">聯絡電話</tspan>
+                        </text>
+                        <text id="123456789" font-family="PingFangTC-Medium, PingFang TC" font-size="7.12577277" font-weight="400" line-spacing="11.5793808">
+                            <tspan x="36.0783484" y="52.3164176" fill="#343A40">123456789</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" mask="url(#mask-2)">
+                    <g transform="translate(486.892754, 77.826649)">
+                        <text id="乙方名稱" opacity="0.6" font-family="PingFangTC-Semibold, PingFang TC" font-size="5.78969038" font-weight="500">
+                            <tspan x="7.63092887" y="9.22901638" fill="#343A40">乙方名稱</tspan>
+                        </text>
+                        <text id="金防部" font-family="PingFangTC-Medium, PingFang TC" font-size="7.12577277" font-weight="400" line-spacing="11.5793808">
+                            <tspan x="38.6329876" y="9.0017471" fill="#343A40">金防部</tspan>
+                        </text>
+                        <text id="乙方連絡人" opacity="0.6" font-family="PingFangTC-Semibold, PingFang TC" font-size="5.78969038" font-weight="500">
+                            <tspan x="0.0515481172" y="31.1886313" fill="#343A40">乙方連絡人</tspan>
+                        </text>
+                        <text id="金防部" font-family="PingFangTC-Medium, PingFang TC" font-size="7.12577277" font-weight="400" line-spacing="11.5793808">
+                            <tspan x="36.0783484" y="30.9567274" fill="#343A40">金防部</tspan>
+                        </text>
+                        <text id="聯絡電話" opacity="0.6" font-family="PingFangTC-Semibold, PingFang TC" font-size="5.78969038" font-weight="500">
+                            <tspan x="5.07628967" y="52.5483215" fill="#343A40">聯絡電話</tspan>
+                        </text>
+                        <text id="123456789" font-family="PingFangTC-Medium, PingFang TC" font-size="7.12577277" font-weight="400" line-spacing="11.5793808">
+                            <tspan x="36.0783484" y="52.3164176" fill="#343A40">123456789</tspan>
+                        </text>
+                    </g>
+                </g>
+                <text id="履約期限" opacity="0.6" mask="url(#mask-2)" font-family="PingFangTC-Semibold, PingFang TC" font-size="5.78969038" font-weight="500" fill="#343A40">
+                    <tspan x="9.79793756" y="134.26391">履約期限</tspan>
+                </text>
+                <g id="badge/dark" mask="url(#mask-2)">
+                    <g transform="translate(10.243298, 50.771131)">
+                        <rect id="area" fill="#0041FF" fill-rule="evenodd" x="0" y="0" width="24.9402047" height="9.35257676" rx="4.67628838"></rect>
+                        <text id="版本-3" fill="none" font-family="PingFangTC-Semibold, PingFang TC" font-size="5.78969038" font-weight="500">
+                            <tspan x="3.56288639" y="6.4453608" fill="#FFFFFF">版本 3 </tspan>
+                        </text>
+                    </g>
+                </g>
+                <text id="變更備註：變更設計" opacity="0.6" mask="url(#mask-2)" font-family="PingFangTC-Semibold, PingFang TC" font-size="5.78969038" font-weight="500" fill="#343A40">
+                    <tspan x="39.637111" y="57.6618526">變更備註：變更設計</tspan>
+                </text>
+                <text id="20,000" mask="url(#mask-2)" font-family="PingFangTC-Medium, PingFang TC" font-size="11.5793808" font-weight="400" fill="#343A40">
+                    <tspan x="39.637111" y="88.1566965">20,000</tspan>
+                </text>
+                <text id="2019-06-25" mask="url(#mask-2)" font-family="PingFangTC-Medium, PingFang TC" font-size="11.5793808" font-weight="400" fill="#343A40">
+                    <tspan x="39.637111" y="111.760819">2019-06-25</tspan>
+                </text>
+                <g id="fa-solid:ellipsis-h" mask="url(#mask-2)">
+                    <g transform="translate(685.000000, 205.000000)" id="Icon">
+                        <g>
+                            <path d="M5.1355667,4.00824718 C5.1355667,4.63140436 4.63140436,5.1355667 4.00824718,5.1355667 C3.38509,5.1355667 2.88092766,4.63140436 2.88092766,4.00824718 C2.88092766,3.38509 3.38509,2.88092766 4.00824718,2.88092766 C4.63140436,2.88092766 5.1355667,3.38509 5.1355667,4.00824718 Z M6.76391712,2.88092766 C6.14075994,2.88092766 5.6365976,3.38509 5.6365976,4.00824718 C5.6365976,4.63140436 6.14075994,5.1355667 6.76391712,5.1355667 C7.3870743,5.1355667 7.89123664,4.63140436 7.89123664,4.00824718 C7.89123664,3.38509 7.3870743,2.88092766 6.76391712,2.88092766 Z M1.25257724,2.88092766 C0.629420066,2.88092766 0.125257724,3.38509 0.125257724,4.00824718 C0.125257724,4.63140436 0.629420066,5.1355667 1.25257724,5.1355667 C1.87573442,5.1355667 2.37989677,4.63140436 2.37989677,4.00824718 C2.37989677,3.38509 1.87573442,2.88092766 1.25257724,2.88092766 Z" id="Icon-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            <rect id="Icon-Rectangle-path" fill-opacity="0" fill="#000000" fill-rule="nonzero" x="0" y="0" width="8.01649437" height="8.01649437"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="button/outline-secondary" mask="url(#mask-2)">
+                    <g transform="translate(665.814393, 324.668022)">
+                        <rect id="area" stroke="#0041FF" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd" x="0.5" y="0.5" width="42.6453582" height="15.9237103" rx="1.33608239"></rect>
+                        <text id="變更契約" stroke="none" fill="none" font-family="PingFangTC-Medium, PingFang TC" font-size="7.12577277" font-weight="400" line-spacing="11.5793808">
+                            <tspan x="8" y="9.99953471" fill="#0041FF">變更契約</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="button/outline-secondary" mask="url(#mask-2)">
+                    <g transform="translate(680.065939, 28.503091)">
+                        <rect id="area" stroke="#D0021B" fill="#FFFFFF" x="0.5" y="0.5" width="28.3938127" height="15.9237103" rx="1.33608239"></rect>
+                        <g id="Group-3" stroke="none" fill="none" transform="translate(7.571134, 2.672165)" font-family="PingFangTC-Medium, PingFang TC" font-size="7.12577277" font-weight="400" line-spacing="11.5793808">
+                            <text id="刪除" fill="#D0021B">
+                                <tspan x="0" y="8.01280905">刪除</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <g id="button/outline-secondary" mask="url(#mask-2)">
+                    <g transform="translate(680.511300, 175.026794)">
+                        <rect id="area" stroke="#0041FF" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd" x="0.5" y="0.5" width="27.9484519" height="15.9237103" rx="1.33608239"></rect>
+                        <text id="新增" stroke="none" fill="none" font-family="PingFangTC-Medium, PingFang TC" font-size="7.12577277" font-weight="400" line-spacing="11.5793808">
+                            <tspan x="7.12577277" y="10.6716995" fill="#0041FF">新增</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
