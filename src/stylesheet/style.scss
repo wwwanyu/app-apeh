@@ -1,11 +1,9 @@
+@import '../node_modules/animate.css/animate.min.css';
 // color
 $primary: #0041FF;
 $light: #ffffff;
 $dark: #303030;
 $grey: #5F5F5F;
-
-$opacityNum: 0.1;
-$opacityName: 1;
 
 html {
   height: 100%;
@@ -14,17 +12,40 @@ body{
   margin:0;
   background-color: $primary;
   font-family: BiauKai, serif;
+  font-size: 14px;
+  line-height: 1.6rem;
   color: $dark;
 }
-p{
-  font-family: source-han-sans-traditional, "Noto Sans TC", "PingFang TC", Roboto, "Microsoft JhengHei", sans-serif;
+h1{
+  font-size: 2.6rem;
+}
+h2{
+  font-size: 2.2rem;
+}
+h3{
+  font-size: 1.8rem;
+}
+h4{
+  font-size: 1.6rem;
+}
+h5{
+  font-size: 1.4rem;
+}
+h6{
+  font-size: 1.2rem;
+}
+.font-sans-serif{
+  font-family: source-han-sans-traditional, Noto Sans TC, PingFang TC, Roboto, Microsoft JhengHei, sans-serif;
+  font-weight: normal;
+}
+.mw-600px{
+  max-width: 600px;
 }
 img{
   max-width: 100%;
 }
 .container{
   margin: .7rem;
-  padding: 1.4rem;
   background-color: $light; 
 }
 .text-center{
@@ -50,6 +71,12 @@ img{
 }
 .py-30px{
   padding: 30px 0;
+}
+.p-0{
+  padding: 0;
+}
+.p-30px{
+  padding: 30px;
 }
 .logo-app-apeh{
   width: 140px;
@@ -84,10 +111,11 @@ img{
 .position-absolute{
   position: absolute;
 }
+.position-sticky{
+  position: sticky;
+}
 .work{
   height: 400px;
-  .work-hover-cover{
-  }
   .work-hover-show{
     top: 50%;
     left: 50%;
@@ -110,13 +138,41 @@ img{
 }
 .back-to-home{
   width: 85px;
-  &.position-absolute{
-    left: 40px;
-    top: 20px;
+  left: 40px;
+  top: 20px;
+}
+.bg-primary-o1 {
+  background-color: rgba($primary, .1);
+}
+.overflow-hidden{
+  overflow: hidden;
+}
+.contact{
+  height: 100px;
+  .marquee{
+    display: none;
+    width: 50%;
+  }
+  &:hover{
+    background-color: rgba($primary, .1);
+    .marquee{
+      display: block;
+      animation: scroll-left 10s linear infinite;
+    }
   }
 }
-@while $opacityName < 10 {
-  .bg-primary-o#{$opacityName} {
-    background-color: rgba($primary, $opacityNum);
+@keyframes scroll-left {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+.hover{
+  &:hover{
+    .hover-hide{
+      display: none;
+    }
   }
 }
